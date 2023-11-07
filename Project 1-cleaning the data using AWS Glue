@@ -1,0 +1,4 @@
+This projects help us to clean the data which will take more time while quering in serverless athena.
+here I am used university data which is not clean any not in correct form
+some numbers must be in out but it present in string, "" com.
+so I have written python script in aws glue jupyter notebook to tackle this problem.
